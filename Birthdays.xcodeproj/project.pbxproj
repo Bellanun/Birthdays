@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		BD62F2B52E33DAD8008DE810 /* EditFriendView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD62F2B42E33DAD8008DE810 /* EditFriendView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		BD62F2A42E33BF55008DE810 /* Birthdays.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Birthdays.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD62F2B42E33DAD8008DE810 /* EditFriendView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditFriendView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		BD62F29B2E33BF55008DE810 = {
 			isa = PBXGroup;
 			children = (
+				BD62F2B42E33DAD8008DE810 /* EditFriendView.swift */,
 				BD62F2A62E33BF55008DE810 /* Birthdays */,
 				BD62F2A52E33BF55008DE810 /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD62F2B52E33DAD8008DE810 /* EditFriendView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
